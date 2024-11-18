@@ -4,6 +4,21 @@ pumpkin
 
 ## Getting Started
 
+Flutter 3.24.0
+
+cd ui_kit
+
+flutter pub get
+
+dart run build_runner build  --delete-conflicting-outputs
+
+cd ..
+
+flutter pub get
+
+dart run build_runner build  --delete-conflicting-outputs
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
