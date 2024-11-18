@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF485F3B</color>
+    <color name="green">#FFAFB982</color>
+    <color name="greenLight">#FFBCCCAF</color>
+    <color name="greenDark">#FF183022</color>
+    <color name="greenDarkLight">#FF6C846C</color>
+    <color name="bone">#FFDDE0CD</color>
+    <color name="light">#FFFFFFFF</color>
+    <color name="dark">#FF000000</color>
+    <color name="grey">#FFF2F2F2</color>
+    <color name="background">#FFF5F5F5</color>
+</resources>

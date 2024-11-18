@@ -1,0 +1,87 @@
+[
+   {
+      "images":{
+         "mobile":"assets/images/banner_1_mobile.png",
+         "tablet":"assets/images/banner_1_tablet.png",
+         "flex":2
+      },
+      "link":"https://example.com/banner_link",
+      "content":{
+         "title":"20-22 сентября",
+         "title_font":{
+            "size":20,
+            "tablet_size": 30,
+            "weight":400,
+            "color":"#FFFFFF",
+            "family":"Inter"
+         },
+         "subtitle":"Фестиваль фермерских товаров",
+         "subtitle_font":{
+            "size":30,
+            "tablet_size": 40,
+            "weight":900,
+            "color":"#FFFFFF",
+            "family":"Inter"
+         },
+          "button":{
+            "title":{
+               "text":"ЕЩЕ О ВЫСТАВКЕ",
+               "font_sizes":{
+                  "tablet_size":16,
+                  "mobile_size":14
+               }
+            },
+            "text_color":"#FFFFFF",
+            "border_color":"#FFFFFF"
+         },
+          "button":{
+            "is_arrow":true
+         }
+      }
+   },
+   {
+      "images":{
+         "mobile":"assets/images/banner_2_mobile.png",
+         "tablet":"assets/images/banner_2_tablet.png",
+         "flex":1
+      },
+      "link":"https://example.com/banner_link",
+      "content":{
+         "title":"А также:",
+         "title_font":{
+            "size":20,
+            "tablet_size": 30,
+            "weight":400,
+            "color":"#FFFFFF",
+            "family":"Inter"
+         },
+         "subtitle":"Выставка тыкв",
+         "subtitle_font":{
+            "size":30,
+            "tablet_size": 40,
+            "weight":900,
+            "color":"#FFFFFF",
+            "family":"Inter"
+         },
+         "description":"Местные фермеры покажут свои самые большие тыквы. Посоревнуются чья тыква тяжелее и крепче.",
+         "description_font":{
+            "size":16,
+            "tablet_size": 16,
+            "weight":400,
+            "color":"#FFFFFF",
+            "family":"Arial"
+         },
+         "button":{
+            "title":{
+               "text":"ЕЩЕ О ВЫСТАВКЕ",
+               "font_sizes":{
+                  "tablet_size":16,
+                  "mobile_size":14
+               }
+            },
+            "text_color":"#FFFFFF",
+            "border_color":"#FFFFFF"
+         }
+      }
+   }
+]

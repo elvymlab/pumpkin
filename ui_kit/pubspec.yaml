@@ -1,0 +1,39 @@
+name: ui_kit
+version: 0.0.1
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  extended_image: ^9.0.6
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.14
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  build_runner: ^2.4.12
+  flutter_gen_runner: ^5.7.0
+  flutter_lints: ^5.0.0
+
+
+flutter_gen:
+  output: lib/assets
+  assets:
+    outputs:
+      package_parameter_enabled: true
+  colors:
+    enabled: true
+    outputs:
+      class_name: UiKitColor
+    inputs:
+      - assets/colors/colors.xml
+  fonts:
+    enabled: true
+
+flutter:
+  assets:
+    - assets/images/
+  uses-material-design: true

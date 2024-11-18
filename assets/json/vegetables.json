@@ -1,0 +1,27 @@
+[
+  {
+    "name": "тыква",
+    "imageUrl": "assets/images/pumpkins.png",
+    "price": 500
+  },
+  {
+    "name": "цветная капуста",
+    "imageUrl": "assets/images/cauliflower.png",
+    "price": 350
+  },
+  {
+    "name": "мята",
+    "imageUrl": "assets/images/mint.png",
+    "price": 150
+  },
+  {
+    "name": "базилик",
+    "imageUrl": "assets/images/basil.png",
+    "price": 450
+  },
+  {
+    "name": "кабачок",
+    "imageUrl": "assets/images/zucchini.png",
+    "price": 50
+  }
+]
